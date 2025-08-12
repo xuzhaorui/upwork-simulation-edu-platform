@@ -16,3 +16,5 @@ Spring Boot, MySQL, JPA, Lombok
 2. Configure MySQL credentials in `application.properties`
 3. Run `mvn spring-boot:run`
 
+## Interface access example
+<img width="1834" height="1023" alt="image" src="https://github.com/user-attachments/assets/ef7ee0f4-2d3c-4e72-aab6-eb5f84e0cc51" />
